@@ -1,6 +1,4 @@
-# vuejs-todo-list
-
-> A Vue.js project
+# Simple todo list application on vue.js
 
 ## Build Setup
 
